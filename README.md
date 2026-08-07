@@ -1,6 +1,5 @@
-<img src="./banner.png" alt="Profile Banner" width="100%" />
+<img src="./banner.png" alt="Profile Banner" width="100%" height="100%" />
 
-# 💻 Tech Stack:
 <div align="center">
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
