@@ -1,4 +1,4 @@
-<img src="./banner2.png" alt="Profile Banner" width="100%" height="100%" />
+<img src="./banner2.png" alt="Profile Banner" width="100%" height="50%" />
 
 <div align="center">
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
